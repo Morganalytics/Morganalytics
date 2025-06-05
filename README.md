@@ -5,3 +5,8 @@ ABOUT ME
 - My job is a blend of analytics, data engineering, and data science.
 - Incredibly organized (I have a spreadsheet for EVERYTHING).
 - I love reading, music, and football.
+
+TOOLS
+- Languages: SQL, Python, R
+- Database: Google Cloud Platform
+- Visualization: Power BI
