@@ -1,4 +1,4 @@
-Hi There! I'm Morgan, a senior analyst currently working within Google's data science department on behalf of EssenceMediacom.
+Hi There! I'm Morgan, a senior analyst currently working within Google's data science department on secondment from EssenceMediacom.
 
 ABOUT ME
 - After teaching myself Python and SQL I transitioned from a media planning role to data analytics.
