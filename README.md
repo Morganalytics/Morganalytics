@@ -1,3 +1,4 @@
+![Morgan Mathews](https://github.com/user-attachments/assets/2d075d27-90e1-40ce-bee0-96f5492cd867)
 Hi There! I'm Morgan, a senior analyst currently working within Google's data science department on secondment from EssenceMediacom.
 
 ABOUT ME
